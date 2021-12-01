@@ -15,7 +15,19 @@ Output:
 
     5 is the missing number
 """
-
+def missing_element(a, b):
+    missing_number = list()
+    if len(a)> len(b):
+        for i in a:
+            if i not in b:
+                missing_number.append(i)
+            elif len(a) < len(b):
+                for j in b:
+                    if j not in a:
+                        missing_number.append(j)
+        print(missing_number)
+    else:
+        print('Two arrays are the same')
 
 
 
