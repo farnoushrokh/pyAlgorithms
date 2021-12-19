@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20c2ad3f-8aea-4895-a557-bed759f27e9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Array_sequence/Array_PerSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array_sequence/Missing_Elements.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,7 +62,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638040900852</updated>
-      <workItem from="1638040902084" duration="3983000" />
+      <workItem from="1638040902084" duration="6046000" />
+      <workItem from="1638802171495" duration="925000" />
+      <workItem from="1639329125240" duration="295000" />
+      <workItem from="1639342690769" duration="94000" />
+      <workItem from="1639708299439" duration="3462000" />
     </task>
     <servers />
   </component>
@@ -76,7 +78,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
